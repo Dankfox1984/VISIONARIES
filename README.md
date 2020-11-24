@@ -136,7 +136,7 @@ BufferedReader myKB = new BufferedReader (new InputStreamReader (System.in))
         System.out.println("first="+first+"second="+second);
         System.out.println("The sum of the first and second number is"+sum);
         // TODO code application logic here
-        }
+        }}
 
 
         static void KeithMethod() {
